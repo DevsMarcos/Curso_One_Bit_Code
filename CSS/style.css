@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200&family=Raleway:wght@200&family=Roboto&display=swap");
+
+#text1 {
+  font-family: Poppins, Arial, sans-serif;
+  font-weight: 200;
+  font-size: 30px;
+}
+
+#text2 {
+  font-family: Raleway, Arial, sans-serif;
+  font-weight: 200;
+  font-size: 30px;
+}
+
+#text3 {
+  font-size-adjust: Roboto, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 30px;
+}

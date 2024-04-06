@@ -1,0 +1,27 @@
+ul {
+  color: rgb(21, 255, 0);
+}
+
+h1 {
+  color: rgb(226, 43, 104);
+}
+
+#Text_Metis {
+  color: brown;
+}
+
+body {
+  background-image: url("https://images2.alphacoders.com/542/thumb-1920-542730.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  border-style: solid;
+  border-color: yellow;
+  border-width: 8px;
+}
+
+div h4 {
+  color: darkslategray;
+}
