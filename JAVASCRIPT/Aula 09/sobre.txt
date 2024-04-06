@@ -1,0 +1,2 @@
+Como icnluir JavaScript no HTML
+É possível inserir 2 arquivos js no HTML, lidos em sequência.

@@ -1,0 +1,15 @@
+Recursos nativos do navegador
+
+No console do navegador podemos utilizar algumas ferramentas: 
+
+- console.log() = mensagem de log
+- console.warn() = mensagem de aviso
+- console.alert() = mensagem de alerta
+
+O recurso windows, desencadeia a abertura de uma janela no navegador: 
+
+- window.promp() ou prompt() = abre uma janela que aceita inserir valores;
+- window.confirm() ou  confirm() = janela de confirmação
+- window.alert() ou alert() = abre uma janela com mensagem
+
+não existe a necessidade de utilizar o window o tempo inteiro, pois ele stá sempre disponível
