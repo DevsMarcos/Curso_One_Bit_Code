@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /*Formato de como os itens da página são renderizados*/
+}
+
+.container{
+    background-color: darkgrey;
+    min-height: 100vh;
+    display: flex; /*Forma de distribuição do items  */;
+    flex-direction:  column;
+    justify-content: center;
+    align-items: stretch;
+    flex-wrap: wrap;
+    column-gap: 15px;
+
+}
+
+.item{
+    height: 200px;
+    border: 2px solid black;
+    background-color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
